@@ -1,0 +1,17 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+
+        "start": "wzrd client.js"
+    },
+    "keywords": [],
+    "author": "Tom",
+    "license": "ISC",
+    "dependencies": {
+        "wzrd": "^1.4.0",
+        "xhr": "^2.2.2"
+    }
+}
